@@ -1,0 +1,75 @@
+@media(max-width: 767.89px) 
+{
+nav{
+    max-width: 90vw;
+}
+.first-section {
+    flex-wrap: wrap;
+}
+.second-section {
+    flex-wrap: wrap;
+}
+.third-section {
+    flex-wrap: wrap;
+}
+.forth-section {
+    flex-wrap: wrap;
+}
+.secimg1 img {
+    width: 305px;
+}
+.secimg2 img {
+    width: 305px;
+}
+.secimg3 img {
+    width: 305px;
+}
+.secimg4 img {
+    width: 305px;
+}
+.secimg4 video {
+    width: 305px;
+}
+.header-container.h1 {
+    font-size: 32px;
+}
+.header-container.h4 {
+    font-size: 18px;
+}
+.header-container.p {
+    font-size: 18px;
+}
+.header-container.buttons { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    
+}
+.faqbox h2 {
+    text-align: center;
+    font-size: 32px;
+}
+
+footer {
+    max-width: 90vw;
+    padding: 75px 0;
+}
+.footer-class {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 25px;
+    
+}
+.footer-class a {
+    font-size: 14px;
+    color: white;
+}
+.footer-item {
+    display: flex;
+    flex-direction: column;
+    gap: 23px; 
+    align-items: center;
+} 
+}
